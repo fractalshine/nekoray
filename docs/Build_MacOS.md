@@ -34,9 +34,13 @@ ninja
 
 ### Go parts
 
-./libs/build_go.sh
+`GOOS=darwin GOARCH=arm64 ./libs/build_go.sh`
 
 refer to [Build_Core.md](./Build_Core.md)
+
+### Deploy frameworks using macdeployqt
+
+`macdeployqt "$nApp" -verbose=3`
 
 
 ### Prepare core
