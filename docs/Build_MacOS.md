@@ -22,6 +22,9 @@ same as [Build_Linux](./Build_Linux.md)
 ```shell
 ./libs/build_deps_all.sh
 ```
+### Pack
+
+refer to script ./libs/deploy_macos.sh
 
 ### Start compiling
 
