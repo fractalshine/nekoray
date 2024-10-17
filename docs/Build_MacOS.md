@@ -12,7 +12,7 @@ git clone https://github.com/MatsuriDayo/nekoray.git --recursive
 
 ## CMake parameters
 
-same as Build_Linux
+same as [Build_Linux](./Build_Linux.md)
 
 ## C++ part
 
